@@ -1,9 +1,6 @@
 [caps]
-platformName = "ios"
+"platformName" = "iOS"
 deviceName ="iPhone 6"
 app = "./UICatalog.app.zip"
-platformVersion = "8.1"
-
-[appium_lib]
-sauce_username = ""
-sauce_access_key = ""
+platformVersion = "10.3"
+paltform = "iOS"
